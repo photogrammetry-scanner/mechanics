@@ -1,4 +1,4 @@
-# Movign camera stand
+# Movign camera stand (work in progress)
 
 - moves camera around object
 - turns a circle, no need for rails
