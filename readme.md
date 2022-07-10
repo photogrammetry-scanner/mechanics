@@ -1,5 +1,3 @@
-# mechanics
-Work in progress ...
+# Mechanics
 
-References: 
-- [thingiverse.com/thing:3960533](https://www.thingiverse.com/thing:3960533)
+- [Moving Camera](https://github.com/photogrammetry-scanner/mechanics/moving-camera)
